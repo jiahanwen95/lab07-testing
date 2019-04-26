@@ -1,0 +1,11 @@
+/**
+*	@file buglist.txt
+*	@Hanwen Jia
+*	@4.26.2019
+*	@brief A buglist
+*/
+From the test i build, i found some bugs
+1. even the list is not empy, the isempty() function still count as empty.
+2. addback function not working well. The value was added in the list but not in the right order.
+3.the removefont and removeback function are not working well. the size didnt change afte calling those function
+4. the removefront and removeback function can not delete the front or back value in the list.
